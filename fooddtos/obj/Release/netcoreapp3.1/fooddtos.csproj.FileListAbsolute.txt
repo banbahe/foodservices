@@ -12,3 +12,17 @@ C:\github\ia.test\ia.solution\fooddtos\obj\Release\netcoreapp3.1\fooddtos.csproj
 C:\github\ia.test\ia.solution\fooddtos\obj\Release\netcoreapp3.1\fooddtos.dll
 C:\github\ia.test\ia.solution\fooddtos\obj\Release\netcoreapp3.1\fooddtos.pdb
 C:\github\ia.test\ia.solution\fooddtos\obj\Release\netcoreapp3.1\fooddtos.genruntimeconfig.cache
+C:\github\foodservices\fooddtos\bin\Release\netcoreapp3.1\fooddtos.exe
+C:\github\foodservices\fooddtos\bin\Release\netcoreapp3.1\fooddtos.deps.json
+C:\github\foodservices\fooddtos\bin\Release\netcoreapp3.1\fooddtos.runtimeconfig.json
+C:\github\foodservices\fooddtos\bin\Release\netcoreapp3.1\fooddtos.runtimeconfig.dev.json
+C:\github\foodservices\fooddtos\bin\Release\netcoreapp3.1\fooddtos.dll
+C:\github\foodservices\fooddtos\bin\Release\netcoreapp3.1\fooddtos.pdb
+C:\github\foodservices\fooddtos\obj\Release\netcoreapp3.1\fooddtos.csproj.AssemblyReference.cache
+C:\github\foodservices\fooddtos\obj\Release\netcoreapp3.1\fooddtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\foodservices\fooddtos\obj\Release\netcoreapp3.1\fooddtos.AssemblyInfoInputs.cache
+C:\github\foodservices\fooddtos\obj\Release\netcoreapp3.1\fooddtos.AssemblyInfo.cs
+C:\github\foodservices\fooddtos\obj\Release\netcoreapp3.1\fooddtos.csproj.CoreCompileInputs.cache
+C:\github\foodservices\fooddtos\obj\Release\netcoreapp3.1\fooddtos.dll
+C:\github\foodservices\fooddtos\obj\Release\netcoreapp3.1\fooddtos.pdb
+C:\github\foodservices\fooddtos\obj\Release\netcoreapp3.1\fooddtos.genruntimeconfig.cache

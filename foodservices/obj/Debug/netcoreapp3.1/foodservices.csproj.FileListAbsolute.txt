@@ -99,12 +99,16 @@ C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\DnsClient.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
 C:\github\foodservices\foodservices\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
@@ -135,6 +139,7 @@ C:\github\foodservices\foodservices\obj\Debug\netcoreapp3.1\foodservices.Generat
 C:\github\foodservices\foodservices\obj\Debug\netcoreapp3.1\foodservices.AssemblyInfoInputs.cache
 C:\github\foodservices\foodservices\obj\Debug\netcoreapp3.1\foodservices.AssemblyInfo.cs
 C:\github\foodservices\foodservices\obj\Debug\netcoreapp3.1\foodservices.csproj.CoreCompileInputs.cache
+C:\github\foodservices\foodservices\obj\Debug\netcoreapp3.1\foodservices.MvcApplicationPartsAssemblyInfo.cs
 C:\github\foodservices\foodservices\obj\Debug\netcoreapp3.1\foodservices.MvcApplicationPartsAssemblyInfo.cache
 C:\github\foodservices\foodservices\obj\Debug\netcoreapp3.1\staticwebassets\foodservices.StaticWebAssets.Manifest.cache
 C:\github\foodservices\foodservices\obj\Debug\netcoreapp3.1\foodservices.RazorTargetAssemblyInfo.cache

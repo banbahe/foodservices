@@ -17,6 +17,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Swashbuckle.AspNetCore.SwaggerUI;
+using Microsoft.OpenApi.Models;
 
 namespace foodservices
 {
@@ -52,6 +54,31 @@ namespace foodservices
                     builder.WithOrigins("*").AllowAnyHeader().AllowAnyMethod();
                 });
             });
+            // startswagger
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1.0", new OpenApiInfo
+                {
+                    Version = "v1.0",
+                    Title = "FOODSERVICES API REST",
+                    Description = "API REST IA INTERACTIVE BELIVE .DO ",
+                    TermsOfService = new Uri("https://github.com/stbndev/foodservices"),
+                    Contact = new OpenApiContact
+                    {
+                        Name = "Eban",
+                        Email = "eban.blanquel@gmail.com",
+                        Url = new Uri("https://github.com/stbndev"),
+                    },
+                    License = new OpenApiLicense
+                    {
+                        Name = "WTFPL",
+                        Url = new Uri("https://github.com/stbndev/chambaap-rest/blob/main/WTFPL.txt"),
+                    }
+                });
+                var filePath = System.IO.Path.Combine(AppContext.BaseDirectory, "QDM.CDM.API.xml");
+                c.IncludeXmlComments(filePath);
+            });
+            // end swagger
             // End Custom
 
         }
@@ -69,6 +96,16 @@ namespace foodservices
             app.UseRouting();
 
             app.UseCors(MyCors);
+
+            app.UseSwagger();
+
+            app.UseSwaggerUI(options =>
+            {
+                options.SwaggerEndpoint("/swagger/v1.0/swagger.json", "FOODSERVICES API v1.0");
+                options.RoutePrefix = string.Empty;
+                options.DocumentTitle = "FOODSERVICES API REST Documentation";
+                options.DocExpansion(DocExpansion.List);
+            });
 
             app.UseStaticFiles();
 

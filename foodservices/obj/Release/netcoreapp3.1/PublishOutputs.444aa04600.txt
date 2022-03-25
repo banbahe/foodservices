@@ -11,6 +11,7 @@ C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\fooddto
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\fooddtos.runtimeconfig.json
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\storage.deps.json
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\storage.runtimeconfig.json
+C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\index.html
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\foodservices.dll
@@ -22,12 +23,16 @@ C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\DnsClie
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Options.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Extensions.Primitives.dll
+C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.OpenApi.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\Microsoft.Win32.Registry.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\MongoDB.Bson.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\MongoDB.Driver.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\MongoDB.Driver.Core.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\MongoDB.Libmongocrypt.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\SharpCompress.dll
+C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\System.Runtime.CompilerServices.Unsafe.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.AccessControl.dll
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\PubTmp\Out\System.Security.Principal.Windows.dll

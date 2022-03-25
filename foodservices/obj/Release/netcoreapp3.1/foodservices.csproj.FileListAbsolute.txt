@@ -70,8 +70,6 @@ C:\github\ia.test\ia.solution\foodservices\obj\Release\netcoreapp3.1\foodservice
 C:\github\ia.test\ia.solution\foodservices\obj\Release\netcoreapp3.1\foodservices.dll
 C:\github\ia.test\ia.solution\foodservices\obj\Release\netcoreapp3.1\foodservices.pdb
 C:\github\ia.test\ia.solution\foodservices\obj\Release\netcoreapp3.1\foodservices.genruntimeconfig.cache
-C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\appsettings.Development.json
-C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\appsettings.json
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\foodbll.deps.json
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\foodbll.runtimeconfig.json
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\foodbll.runtimeconfig.dev.json
@@ -88,6 +86,8 @@ C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\storage.runtimecon
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\storage.exe
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\fooddal.exe
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\foodbll.exe
+C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\appsettings.json
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\foodservices.exe
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\foodservices.deps.json
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\foodservices.runtimeconfig.json
@@ -99,12 +99,16 @@ C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\DnsClient.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\Microsoft.Win32.Registry.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\MongoDB.Bson.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\MongoDB.Driver.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\MongoDB.Driver.Core.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\MongoDB.Libmongocrypt.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\SharpCompress.dll
+C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\System.Security.AccessControl.dll
 C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\System.Security.Principal.Windows.dll
@@ -135,6 +139,7 @@ C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\foodservices.Gener
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\foodservices.AssemblyInfoInputs.cache
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\foodservices.AssemblyInfo.cs
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\foodservices.csproj.CoreCompileInputs.cache
+C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\foodservices.MvcApplicationPartsAssemblyInfo.cs
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\foodservices.MvcApplicationPartsAssemblyInfo.cache
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\staticwebassets\foodservices.StaticWebAssets.Manifest.cache
 C:\github\foodservices\foodservices\obj\Release\netcoreapp3.1\foodservices.RazorTargetAssemblyInfo.cache

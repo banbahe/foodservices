@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\github\foodservices\foodservices\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-03-25T22:15:53.3508814Z;</History>
+  </PropertyGroup>
+</Project>
